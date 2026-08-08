@@ -5,7 +5,7 @@ header-img: img/dst1.jpg
 # email: my@gmail.com
 description: "It's over isn't it"
 url: "https://hyb3rr.github.io" # your host, for absolute URL
-baseurl: "/Hyber.github.io" # repo name subpath for project page
+baseurl: "/Hyber.github.io" # repo name; use "" for local dev
 
 # Publish posts or collection documents with a future date.
 future: true
